@@ -39,32 +39,263 @@
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="550" height="340" viewBox="0 0 550 340">
-  <defs>
-    <style>
-      .bubble { fill: #e9e9eb; }
-      .text { fill: #242424; font-size: 18px; font-family: system-ui, sans-serif; }
-      @media (prefers-color-scheme: dark) {
-        .bubble { fill: #3b3b3d; }
-        .text { fill: #dcdcdc; }
+<svg width="550" height="330" viewBox="0 0 550 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bubble {
+      fill: #e9e9eb;
+    }
+    a {
+      fill: #0079ff;
+    }
+    text {
+      fill: #242424;
+      font-size: 18px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      letter-spacing: -0.02em;
+    }
+
+    .typing-1 {
+      opacity: 0;
+      animation: fade-in-out 1.5s;
+    }
+
+    .msg-1 {
+      animation: wait 1.7s, msg-1 0.2s 1.7s;
+    }
+
+    .typing-2 {
+      opacity: 0;
+      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+    }
+
+    .msg-2 {
+      animation: wait 4.2s, msg-2 0.2s 4.2s;
+    }
+
+    .typing-3 {
+      opacity: 0;
+      animation: wait 5s, fade-in-out 1.5s 5s;
+    }
+
+    .msg-3 {
+      animation: wait 6.7s, msg-3 0.2s 6.7s;
+    }
+
+    .typing-4 {
+      opacity: 0;
+      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
+    }
+
+    .msg-4 {
+      animation: wait 9.2s, msg-4 0.2s 9.2s;
+    }
+
+    .typing-5 {
+      opacity: 0;
+      animation: wait 10s, fade-in-out 1.5s 10s;
+    }
+
+    .msg-5 {
+      animation: wait 11.7s, msg-5 0.2s 11.7s;
+    }
+
+    @keyframes wait {
+      0%, 100% {
+        opacity: 0;
       }
-    </style>
-  </defs>
-  
-  <rect x="10" y="0" width="190" height="42" rx="18" class="bubble"/>
-  <text x="25" y="27" class="text">Hi, I'm Aryan </text>
-  
-  <rect x="10" y="54" width="480" height="66" rx="18" class="bubble"/>
-  <text x="25" y="81" class="text">Aspiring ML &amp; Embedded Systems Engineer</text>
-  <text x="25" y="104" class="text">Building CV, IoT &amp; Data Products</text>
-  
-  <rect x="10" y="132" width="450" height="66" rx="18" class="bubble"/>
-  <text x="25" y="159" class="text">Computer Applications in AI &amp; ML</text>
-  <text x="25" y="182" class="text">Passionate about Computer Vision &amp; IoT</text>
-  
-  <rect x="10" y="210" width="540" height="42" rx="18" class="bubble"/>
-  <text x="25" y="237" class="text">Currently working on ML Ops &amp; IoT projects</text>
-  
-  <rect x="10" y="264" width="520" height="42" rx="18" class="bubble"/>
-  <text x="25" y="291" class="text">Ask me about OpenCV, Arduino, Flask &amp; ML</text>
+    }
+
+    @keyframes fade-in-out {
+      0%, 100% {
+        opacity: 0;
+      }
+      25%, 90% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes msg-1 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 5px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 0);
+      }
+    }
+
+    @keyframes msg-2 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 53px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 48px);
+      }
+    }
+
+    @keyframes msg-3 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 125px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 120px);
+      }
+    }
+
+    @keyframes msg-4 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 197px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 192px);
+      }
+    }
+
+    @keyframes msg-5 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 269px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 264px);
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .bubble {
+        fill: #3b3b3d;
+      }
+      text {
+        fill: #dcdcdc;
+      }
+      a {
+        fill: #0c82f9;
+      }
+    }
+  </style>
+
+  <!-- typing 1 -->
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Hi, I'm Aryan -->
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="130" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Aryan</text>
+  </g>
+
+  <!-- typing 2 -->
+  <g transform="translate(10, 48)" class="typing-2">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Aspiring ML & Embedded Systems Engineer -->
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="380" height="66" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Aspiring ML &amp; Embedded Systems Engineer</text>
+    <text x="15" y="50">Building CV, IoT &amp; Data Products</text>
+  </g>
+
+  <!-- typing 3 -->
+  <g transform="translate(10, 120)" class="typing-3">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Computer Applications in AI & ML -->
+  <g transform="translate(10, 120)" class="msg-3">
+    <rect width="355" height="66" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Computer Applications in AI &amp; ML</text>
+    <text x="15" y="50">Passionate about Computer Vision &amp; IoT</text>
+  </g>
+
+  <!-- typing 4 -->
+  <g transform="translate(10, 192)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Currently working on ML Ops & IoT projects -->
+  <g transform="translate(10, 192)" class="msg-4">
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Currently working on ML Ops &amp; IoT projects</text>
+  </g>
+
+  <!-- typing 5 -->
+  <g transform="translate(10, 244)" class="typing-5">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Ask me about OpenCV, Arduino, Flask & ML -->
+  <g transform="translate(10, 244)" class="msg-5">
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Ask me about OpenCV, Arduino, Flask &amp; ML</text>
+  </g>
 </svg>
