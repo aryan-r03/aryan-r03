@@ -39,10 +39,32 @@
 
 
 
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi%2C+I'm+Aryan+%F0%9F%91%8B;Aspiring+ML+%26+Embedded+Systems+Engineer;Building+CV%2C+IoT+%26+Data+Products;Computer+Applications+in+AI+%26+ML;Passionate+about+Computer+Vision+%26+IoT" alt="Typing SVG" />
-</p>
-
-<h3 align="center">Let's build something amazing together! 🚀</h3>
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="340" viewBox="0 0 550 340">
+  <defs>
+    <style>
+      .bubble { fill: #e9e9eb; }
+      .text { fill: #242424; font-size: 18px; font-family: system-ui, sans-serif; }
+      @media (prefers-color-scheme: dark) {
+        .bubble { fill: #3b3b3d; }
+        .text { fill: #dcdcdc; }
+      }
+    </style>
+  </defs>
+  
+  <rect x="10" y="0" width="190" height="42" rx="18" class="bubble"/>
+  <text x="25" y="27" class="text">Hi, I'm Aryan 👋</text>
+  
+  <rect x="10" y="54" width="480" height="66" rx="18" class="bubble"/>
+  <text x="25" y="81" class="text">Aspiring ML &amp; Embedded Systems Engineer</text>
+  <text x="25" y="104" class="text">Building CV, IoT &amp; Data Products</text>
+  
+  <rect x="10" y="132" width="450" height="66" rx="18" class="bubble"/>
+  <text x="25" y="159" class="text">Computer Applications in AI &amp; ML</text>
+  <text x="25" y="182" class="text">Passionate about Computer Vision &amp; IoT</text>
+  
+  <rect x="10" y="210" width="540" height="42" rx="18" class="bubble"/>
+  <text x="25" y="237" class="text">Currently working on ML Ops &amp; IoT projects</text>
+  
+  <rect x="10" y="264" width="520" height="42" rx="18" class="bubble"/>
+  <text x="25" y="291" class="text">Ask me about OpenCV, Arduino, Flask &amp; ML</text>
+</svg>
