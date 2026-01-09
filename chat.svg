@@ -1,4 +1,4 @@
-<svg width="550" height="340" viewBox="0 0 550 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="550" height="340" viewBox="0 0 550 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bubble { fill: #e9e9eb; }
     text { 
@@ -11,36 +11,38 @@
       text { fill: #dcdcdc; }
     }
   </style>
-
-  <!-- Hi, I'm Aryan -->
   <g transform="translate(10, 0)">
     <rect width="190" height="42" rx="18" class="bubble"/>
     <text x="15" y="27">Hi, I'm Aryan 👋</text>
   </g>
-
-  <!-- Aspiring ML Engineer -->
   <g transform="translate(10, 54)">
     <rect width="480" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">Aspiring ML &amp; Embedded Systems Engineer</text>
     <text x="15" y="50">Building CV, IoT &amp; Data Products</text>
   </g>
-
-  <!-- Computer Applications -->
   <g transform="translate(10, 132)">
     <rect width="450" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">Computer Applications in AI &amp; ML</text>
     <text x="15" y="50">Passionate about Computer Vision &amp; IoT</text>
   </g>
-
-  <!-- Currently working -->
   <g transform="translate(10, 210)">
     <rect width="540" height="42" rx="18" class="bubble"/>
     <text x="15" y="27">Currently working on ML Ops &amp; IoT projects</text>
   </g>
-
-  <!-- Ask me about -->
   <g transform="translate(10, 264)">
     <rect width="520" height="42" rx="18" class="bubble"/>
     <text x="15" y="27">Ask me about OpenCV, Arduino, Flask &amp; ML</text>
   </g>
 </svg>
+ -->
+
+
+
+
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi%2C+I'm+Aryan+%F0%9F%91%8B;Aspiring+ML+%26+Embedded+Systems+Engineer;Building+CV%2C+IoT+%26+Data+Products;Computer+Applications+in+AI+%26+ML;Passionate+about+Computer+Vision+%26+IoT" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Let's build something amazing together! 🚀</h3>
