@@ -258,8 +258,12 @@
 ## 📊 GitHub Statistics
 
 
-![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)](https://github.com/aryan-r03)
-![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)
+<!-- <p>
+  ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)](https://github.com/aryan-r03)
+    ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)
+    ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true&theme=radical)
+</p>     -->
+
 
 
 <p align="center">
