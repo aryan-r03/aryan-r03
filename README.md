@@ -28,19 +28,10 @@
 - 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
 
 --- -->
-<h1 align="center">Hi there 👋</h1>
+### Hi there 👋
+[![](https://github.com/aryan-r03/aryan-r03/blob/main/chat.svg)]
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/chat.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/chat.svg">
-    <img alt="Chat animation" src="https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/chat.svg">
-  </picture>
-</p>
 
-<h3 align="center">Aspiring ML & Embedded Systems Engineer | Building CV, IoT & Data Products</h3>
-
----
 
 ## 🚀 About Me
 
@@ -295,7 +286,10 @@
     ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true&theme=radical)
 </p>     -->
 
-
+<p align="center">
+  <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=aryan-r03&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aryan-r03&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-r03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
