@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋
+<!-- <h1 align="center">Hi there 👋
 
 
 <p align="center">
@@ -27,7 +27,38 @@
 - 📍 Based in **India**
 - 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
 
+--- -->
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/chat.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/chat.svg">
+    <img alt="Chat animation" src="https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/chat.svg">
+  </picture>
+</p>
+
+<h3 align="center">Aspiring ML & Embedded Systems Engineer | Building CV, IoT & Data Products</h3>
+
 ---
+
+## 🚀 About Me
+
+- 🎓 **Computer Applications in AI & ML** | Building real-world solutions at the intersection of software and hardware
+- 🔭 Currently working on **ML Ops pipelines for CV systems & Arduino, ESP32 IoT projects**
+- 🌱 Learning **Edge ML, embedded networking, and scalable ML deployment**
+- 💡 Passionate about **Computer Vision, IoT sensor integration, and data-driven products**
+- 📍 Based in **India**
+- 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
+
+---
+
+<!-- Rest of your README content continues here -->
+
+
+
+
+
 
 ## 💻 Tech Stack
 
