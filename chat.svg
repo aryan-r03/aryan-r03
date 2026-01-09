@@ -1,141 +1,45 @@
 <svg width="550" height="340" viewBox="0 0 550 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bubble { fill: #e9e9eb; }
-    .dark .bubble { fill: #3b3b3d; }
     text { 
       fill: #242424; 
       font-size: 18px; 
-      font-family: system-ui, -apple-system, sans-serif;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
-    .dark text { fill: #dcdcdc; }
-    
-    .typing-1 { animation: fade 1.5s; opacity: 0; }
-    .msg-1 { animation: wait 1.7s, slide 0.2s 1.7s forwards; opacity: 0; }
-    .typing-2 { animation: wait 2.5s, fade 1.5s 2.5s; opacity: 0; }
-    .msg-2 { animation: wait 4.2s, slide 0.2s 4.2s forwards; opacity: 0; }
-    .typing-3 { animation: wait 5s, fade 1.5s 5s; opacity: 0; }
-    .msg-3 { animation: wait 6.7s, slide 0.2s 6.7s forwards; opacity: 0; }
-    .typing-4 { animation: wait 7.5s, fade 1.5s 7.5s; opacity: 0; }
-    .msg-4 { animation: wait 9.2s, slide 0.2s 9.2s forwards; opacity: 0; }
-    .typing-5 { animation: wait 10s, fade 1.5s 10s; opacity: 0; }
-    .msg-5 { animation: wait 11.7s, slide 0.2s 11.7s forwards; opacity: 0; }
-    
-    @keyframes wait { 0%, 100% { opacity: 0; } }
-    @keyframes fade { 0%, 100% { opacity: 0; } 25%, 90% { opacity: 1; } }
-    @keyframes slide { 
-      0% { opacity: 0; transform: translateY(5px); }
-      100% { opacity: 1; transform: translateY(0); }
-    }
-    
     @media (prefers-color-scheme: dark) {
       .bubble { fill: #3b3b3d; }
       text { fill: #dcdcdc; }
     }
   </style>
 
-  <!-- Message 1: Hi, I'm Aryan -->
-  <g class="typing-1" transform="translate(10, 0)">
-    <rect x="8" width="70" height="42" rx="21" class="bubble"/>
-    <circle cx="14" cy="33" r="8" class="bubble"/>
-    <circle cx="4" cy="42" r="4" class="bubble"/>
-    <circle cx="27" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="43" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="58" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <g class="msg-1" transform="translate(10, 0)">
+  <!-- Hi, I'm Aryan -->
+  <g transform="translate(10, 0)">
     <rect width="190" height="42" rx="18" class="bubble"/>
-    <text x="15" y="27">Hi, I'm Aryan</text>
+    <text x="15" y="27">Hi, I'm Aryan 👋</text>
   </g>
 
-  <!-- Message 2 -->
-  <g class="typing-2" transform="translate(10, 54)">
-    <rect x="8" width="70" height="42" rx="21" class="bubble"/>
-    <circle cx="14" cy="33" r="8" class="bubble"/>
-    <circle cx="4" cy="42" r="4" class="bubble"/>
-    <circle cx="27" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="43" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="58" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <g class="msg-2" transform="translate(10, 54)">
+  <!-- Aspiring ML Engineer -->
+  <g transform="translate(10, 54)">
     <rect width="480" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">Aspiring ML &amp; Embedded Systems Engineer</text>
     <text x="15" y="50">Building CV, IoT &amp; Data Products</text>
   </g>
 
-  <!-- Message 3 -->
-  <g class="typing-3" transform="translate(10, 132)">
-    <rect x="8" width="70" height="42" rx="21" class="bubble"/>
-    <circle cx="14" cy="33" r="8" class="bubble"/>
-    <circle cx="4" cy="42" r="4" class="bubble"/>
-    <circle cx="27" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="43" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="58" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <g class="msg-3" transform="translate(10, 132)">
+  <!-- Computer Applications -->
+  <g transform="translate(10, 132)">
     <rect width="450" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">Computer Applications in AI &amp; ML</text>
     <text x="15" y="50">Passionate about Computer Vision &amp; IoT</text>
   </g>
 
-  <!-- Message 4 -->
-  <g class="typing-4" transform="translate(10, 210)">
-    <rect x="8" width="70" height="42" rx="21" class="bubble"/>
-    <circle cx="14" cy="33" r="8" class="bubble"/>
-    <circle cx="4" cy="42" r="4" class="bubble"/>
-    <circle cx="27" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="43" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="58" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <g class="msg-4" transform="translate(10, 210)">
+  <!-- Currently working -->
+  <g transform="translate(10, 210)">
     <rect width="540" height="42" rx="18" class="bubble"/>
     <text x="15" y="27">Currently working on ML Ops &amp; IoT projects</text>
   </g>
 
-  <!-- Message 5 -->
-  <g class="typing-5" transform="translate(10, 264)">
-    <rect x="8" width="70" height="42" rx="21" class="bubble"/>
-    <circle cx="14" cy="33" r="8" class="bubble"/>
-    <circle cx="4" cy="42" r="4" class="bubble"/>
-    <circle cx="27" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="43" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="58" cy="21" r="5" fill="#999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <g class="msg-5" transform="translate(10, 264)">
+  <!-- Ask me about -->
+  <g transform="translate(10, 264)">
     <rect width="520" height="42" rx="18" class="bubble"/>
     <text x="15" y="27">Ask me about OpenCV, Arduino, Flask &amp; ML</text>
   </g>
