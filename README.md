@@ -29,7 +29,7 @@
 
 --- -->
 ### Hi there 👋
-[![](https://github.com/aryan-r03/aryan-r03/blob/main/chat.svg)]
+![](https://github.com/aryan-r03/aryan-r03/blob/main/chat.svg)
 
 
 
