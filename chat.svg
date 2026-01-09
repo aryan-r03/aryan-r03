@@ -272,7 +272,7 @@
 
   <!-- Currently working on ML Ops & IoT projects -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="380" height="42" rx="18.0355" class="bubble" />
+    <rect width="375" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently working on ML Ops &amp; IoT projects</text>
   </g>
 
@@ -295,7 +295,7 @@
 
   <!-- Ask me about OpenCV, Arduino, Flask & ML -->
   <g transform="translate(10, 244)" class="msg-5">
-    <rect width="380" height="42" rx="18.0355" class="bubble" />
+    <rect width="375" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Ask me about OpenCV, Arduino, Flask &amp; ML</text>
   </g>
 </svg>
