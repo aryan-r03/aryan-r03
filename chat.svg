@@ -13,7 +13,7 @@
   </style>
   <g transform="translate(10, 0)">
     <rect width="190" height="42" rx="18" class="bubble"/>
-    <text x="15" y="27">Hi, I'm Aryan 👋</text>
+    <text x="15" y="27">Hi, I'm Aryan </text>
   </g>
   <g transform="translate(10, 54)">
     <rect width="480" height="66" rx="18" class="bubble"/>
@@ -52,7 +52,7 @@
   </defs>
   
   <rect x="10" y="0" width="190" height="42" rx="18" class="bubble"/>
-  <text x="25" y="27" class="text">Hi, I'm Aryan 👋</text>
+  <text x="25" y="27" class="text">Hi, I'm Aryan </text>
   
   <rect x="10" y="54" width="480" height="66" rx="18" class="bubble"/>
   <text x="25" y="81" class="text">Aspiring ML &amp; Embedded Systems Engineer</text>
