@@ -258,10 +258,7 @@
 ## 📊 GitHub Statistics
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-r03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
+[![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)](https://github.com/aryan-r03)
 
 
 <p align="center">
