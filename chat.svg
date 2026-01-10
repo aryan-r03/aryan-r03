@@ -202,7 +202,7 @@
   <!-- Hi, I'm Aryan -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="130" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Aryan</text>
+    <text x="15" y="27">Hi, I'm Aryan 👋</text>
   </g>
 
   <!-- typing 2 -->
