@@ -28,7 +28,7 @@
 - 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
 
 --- -->
-### Hi there 👋
+
 ![](https://github.com/aryan-r03/aryan-r03/blob/main/chat.svg)
 
 
