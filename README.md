@@ -281,11 +281,17 @@
 
 
 <!-- <p>
-  ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)](https://github.com/aryan-r03)
+    ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)](https://github.com/aryan-r03)
     ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)
     ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true&theme=radical)
-</p>     -->
+</p> -->
 
+
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true"></a>
+</p>
+
+  
 <p align="center">
   <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=aryan-r03&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
   <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aryan-r03&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
