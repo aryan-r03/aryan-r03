@@ -224,20 +224,20 @@
 
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true"></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&show_icons=true"></a>
 </p>
 
 
 <p align = 'center'>
 
-<a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&theme=gotham&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800
-&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800
-&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&cache_seconds=1800&theme=gotham&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&cache_seconds=1800&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
   
 </p>
+
+
 
   
   <!-- <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=aryan-r03&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a> -->
@@ -245,8 +245,7 @@
 
 <p align="center">
     <a href="https://wakatime.com/@aryan-r03">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-r03&cache_seconds=1800
-&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20in%20all%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-r03&cache_seconds=1800&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20in%20all%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 
