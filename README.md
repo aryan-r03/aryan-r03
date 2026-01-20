@@ -395,6 +395,9 @@ me.say_hi()
   <a href="https://github.com/aryan-r03">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="https://www.hackerrank.com/AryanR_Ranjan">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
   <img src="https://komarev.com/ghpvc/?username=aryanranjan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
