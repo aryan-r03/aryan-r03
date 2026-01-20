@@ -298,7 +298,7 @@
 
 **Tech:** `Arduino` `Python` `Serial I/O` `Sensors`
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/aryan-r03/Ultrasonic-Distance-Measurement-System-Arduino-UNO)
 
 </td>
 </tr>
@@ -316,7 +316,7 @@
 
 **Tech:** `Machine Learning` `Flask` `scikit-learn` `Web Dev`
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask-)
 
 </td>
 <td width="50%">
@@ -331,7 +331,7 @@
 
 **Tech:** `Python` `Image Processing` `Algorithms`
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/aryan-r03/Poly-art-using-python)
 
 </td>
 </tr>
