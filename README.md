@@ -283,7 +283,7 @@
 
 **Tech:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
 
-🔗 [View Repository](https://github.com/aryan-r03/Poly-art-using-python)
+🔗 [View Repository](https://github.com/aryan-r03/asl-hand-gesture)
 
 </td>
 <td width="50%">
