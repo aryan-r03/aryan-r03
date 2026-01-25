@@ -152,6 +152,9 @@
         <br>ESP32
       </td>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+      </td>Raspberry-Pi
+      <td align="center" width="96">
         <img src="https://cdn-icons-png.flaticon.com/512/2942/2942813.png" width="65" height="65" alt="Sensors"/>
         <br>Sensors
       </td>
