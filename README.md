@@ -263,9 +263,12 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=github&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
 </p>
 
+---
 
 
-
+<!-- <p>
+<img src="https://leetcard.jacoblin.cool/aryan_r03?theme=dark&font=Marcellus&ext=heatmap" width="50%" />
+</p> -->
 
 
 ---
