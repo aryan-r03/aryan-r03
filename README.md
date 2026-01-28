@@ -31,6 +31,8 @@
 
 ![](https://github.com/aryan-r03/aryan-r03/blob/main/chat.svg)
 
+<!-- <div align = "center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L%20S%20Aryan%20Ranjan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B%20.%20E%20.%20EEE%20%7C%20SIMATS%20%7C%205x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/> -->
 
 
 ## 🚀 About Me
@@ -43,8 +45,6 @@
 - 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
 
 ---
-
-<!-- Rest of your README content continues here -->
 
 
 
@@ -192,8 +192,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="65" height="65" alt="Anaconda"/>
         <br>Anaconda
       </td>
+      <td align = "center" width = "96">
+        <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+        width="40"/>
+        <br>Jupiter Notebook
       <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
        width="65" height="65" alt="Google Colab"/>
   <br>Google Colab
 </td>
@@ -254,17 +258,15 @@
 <p align = 'center'>
 
 <a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
-  
+
+
+ <!-- <a href="https://github.com/aryan-r03/beautiful-github-homepage"><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=aryan-r03&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryan-r03" /></a> -->
+ 
 </p>
-
-
-
-  
-  <!-- <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=aryan-r03&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a> -->
 
 
 <p align="center">
@@ -282,14 +284,7 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
 </p>
 
----
-
-
-<!-- <p>
-<img src="https://leetcard.jacoblin.cool/aryan_r03?theme=dark&font=Marcellus&ext=heatmap" width="50%" />
-</p> -->
-
-
+  
 ---
 
 
@@ -400,8 +395,24 @@ me = AryanRanjan()
 me.say_hi()
 ```
 
-
 ---
+<!-- ### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/aryan_r03/)
+<p style="background:#0c1014; padding:10px; border-radius:10px;">
+<img src="https://leetcard.jacoblin.cool/aryan_r03?theme=gotham&font=Marcellus&ext=heatmap" width="50%" />
+</p> -->
+
+## 📜 Hacker-Rank
+
+<!-- - 🔗 [View My HackerRank Profile](https://www.hackerrank.com/aryan_r03) -->
+<div align = "center">
+<p>
+  <img src="https://hackerrank-stats.vercel.app/api?username=AryanR_Ranjan&theme=gotham" width="15%" />
+</p>
+
+  
+---
+
 
 ## 🌐 Connect With Me
 
