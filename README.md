@@ -211,22 +211,22 @@
 
 ## 
 
-<p align = 'center'>
-  <a href="https://github.com/aryan-r03/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aryan-r03&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
+
+<table align="center">
+  <tr>
+    <!-- <td><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aryan-r03&hide_title=false&layout=compact&theme=gotham&count_private=true&hide_border=true" height="180px"></td> -->
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-r03&theme=gotham" height="180px"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan-r03&theme=gotham" height="180px"></td>
+  </tr>
+</table>
 
 
 ---
 ## 📊 GitHub Statistics
 
 
-<!-- <p>
-    ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)](https://github.com/aryan-r03)
-    ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true)
-    ![Aryan Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-r03&show_icons=true&theme=radical)
-</p> -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryan-r03&theme=gotham" height="180em"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-r03&theme=gotham" height="180em"></td>
@@ -240,7 +240,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&theme=gotham" height="180em">
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -251,11 +251,10 @@
  <a href="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&show_icons=true"></a>
 </p>
 
-
 <p align = 'center'>
 
 <a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryan-r03&theme=gotham&cache_seconds=1800&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
@@ -276,12 +275,11 @@
 
 
 
-
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-r03&cache_seconds=1800&theme=github_dark&utcOffset=4"  width="31%" alt="@Aryan's productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-r03&cache_seconds=1800&theme=github&utcOffset=4"  width="31%" alt="@Aryan's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=github_dark&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=github&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-r03&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@Aryan's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-r03&cache_seconds=1800&theme=gotham&utcOffset=54.30"  width="31%" alt="@Aryan's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
 </p>
 
 ---
