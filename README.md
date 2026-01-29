@@ -256,11 +256,8 @@
 </p>
 
 <p align = 'center'>
-<!-- <a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a> -->
-  
-![GitHub Grade](https://raw.githubusercontent.com/aryan-r03/aryan-r03/main/grade.svg)
+<a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
 <a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
 
