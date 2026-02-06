@@ -407,7 +407,7 @@ me.say_hi()
 <!-- - 🔗 [View My HackerRank Profile](https://www.hackerrank.com/aryan_r03) -->
 <div align = "center">
 <p>
-  <img src="https://hackerrank-stats.vercel.app/api?username=AryanR_Ranjan&theme=gotham" width="15%" />
+  <img src="https://hackerrank-stats.vercel.app/api?username=AryanR_Ranjan&theme=gotham" width="25%" />
 </p>
 
   
