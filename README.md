@@ -439,10 +439,6 @@ me.say_hi()
 </p>
 
 ---
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=aryan-r03&theme=onedark&no-frame=true&margin-w=10)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
