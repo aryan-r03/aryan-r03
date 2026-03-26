@@ -276,6 +276,10 @@
 </p>
 
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-r03&cache_seconds=1800&theme=gotham&utcOffset=5.30"  width="31%" alt="@Aryan's productive-time"/></a>
