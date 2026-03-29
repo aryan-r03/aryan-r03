@@ -427,9 +427,9 @@ me.say_hi()
   <a href="mailto:aryanr.ranjan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <!-- <a href="https://instagram.com/__aryan_.r03">
+  <a href="https://instagram.com/__aryan_.r03">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a> -->
+  </a>
   <a href="https://leetcode.com/aryan_r03">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
