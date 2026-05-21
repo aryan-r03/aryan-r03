@@ -16,7 +16,12 @@
 </a>
 </p>
 
-
+- 🎓 **Computer Applications in AI & ML** | Building real-world solutions at the intersection of software and hardware
+- 🔭 Currently working on **ML Ops pipelines for CV systems & Arduino, ESP32 IoT projects**
+- 🌱 Learning **Edge ML, embedded networking, and scalable ML deployment**
+- 💡 Passionate about **Computer Vision, IoT sensor integration, and data-driven products**
+- 📍 Based in **India**
+- 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
 
 ---
 
@@ -40,11 +45,10 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Applications in AI & ML** | Building real-world solutions at the intersection of software and hardware
-- 🔭 Currently working on **ML Ops pipelines for CV systems & Arduino, ESP32 IoT projects**
+- 🔭 Currently working on **ML Ops pipelines for CV systems & RaspberryPi, Arduino, ESP32 IoT projects**
 - 🌱 Learning **Edge ML, embedded networking, and scalable ML deployment**
 - 💡 Passionate about **Computer Vision, IoT sensor integration, and data-driven products**
 - 📍 Based in **India**
-- 💬 Ask me about **OpenCV, Arduino, Flask APIs, or ML model deployment**
 
 ---
 
