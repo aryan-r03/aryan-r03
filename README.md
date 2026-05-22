@@ -292,7 +292,7 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true"  width="64%" alt="@Aryan's profile-details"/></a>
 </p>
 
-  
+
 ---
 
 
@@ -404,11 +404,16 @@ me.say_hi()
 ```
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aryan-r03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 <!-- ### 📜 LeetCode
 - 🔗 [View My LeetCode Profile](https://leetcode.com/u/aryan_r03/)
 <p style="background:#0c1014; padding:10px; border-radius:10px;">
 <img src="https://leetcard.jacoblin.cool/aryan_r03?theme=gotham&font=Marcellus&ext=heatmap" width="50%" />
 </p> -->
+
 
 ## 📜 Hacker-Rank
 
