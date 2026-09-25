@@ -93,20 +93,10 @@
   </table>
 </div>
 
-
-
-### ML & Computer Vision
-  <div align="center">
+### Machine Learning & Data Science
+<div align="center">
   <table>
     <tr>
-      <!-- <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/>
-        <br>OpenCV
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="65" height="65" alt="MediaPipe"/>
-        <br>MediaPipe
-      </td> -->
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65" alt="scikit-learn"/>
         <br>scikit-learn
@@ -119,17 +109,33 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/>
         <br>Pandas
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/>
+        <br>OpenCV
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" height="65" alt="Matplotlib"/>
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" height="65" alt="TensorFlow"/>
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65" height="65" alt="NLP"/>
+        <br>NLP
+      </td>
     </tr>
   </table>
 </div>
 
 
 ### Web & Backend
-  <div align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"" width="65" height="65" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="65" height="65" alt="Flask"/>
         <br>Flask
       </td>
       <td align="center" width="96">
@@ -162,8 +168,8 @@
         <br>ESP32
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-      <br>RaspberryPi
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="65" height="65" alt="Raspberry Pi"/>
+        <br>Raspberry Pi
       </td>
       <td align="center" width="96">
         <img src="https://cdn-icons-png.flaticon.com/512/2942/2942813.png" width="65" height="65" alt="Sensors"/>
@@ -195,22 +201,25 @@
         <br>PyCharm
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="SQL Workbench"/>
-        <br>SQL Workbench
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="65" height="65" alt="IntelliJ IDEA"/>
+        <br>IntelliJ IDEA
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL"/>
+        <br>MySQL
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="65" height="65" alt="Anaconda"/>
         <br>Anaconda
       </td>
-      <td align = "center" width = "96">
-        <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-        width="40"/>
-        <br>Jupiter Notebook
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-       width="65" height="65" alt="Google Colab"/>
-  <br>Google Colab
-</td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
+        <br>Jupyter Notebook
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65" height="65" alt="Google Colab"/>
+        <br>Google Colab
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="65" alt="Arduino IDE"/>
         <br>Arduino IDE
@@ -219,13 +228,28 @@
   </table>
 </div>
 
+### DSA & Programming
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++"/>
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65" height="65" alt="DSA"/>
+        <br>DSA
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
 
-----
-
 ## 
-
-
 <table align="center">
   <tr>
     <!-- <td><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aryan-r03&hide_title=false&layout=compact&theme=gotham&count_private=true&hide_border=true" height="180px"></td> -->
@@ -267,9 +291,10 @@
 
 <p align = 'center'>
 <a href="https://github.com/aryan-r03?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
+  
 <a href="https://github.com/aryan-r03?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryan-r03&cache_seconds=1800&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aryan's github-readme-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
-<a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
+<!-- <a href="https://github.com/aryan-r03?tab=stars#gh-dark-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a>
+<a href="https://github.com/aryan-r03?tab=stars#gh-light-mode-only"><img src="https://github-streak-stats-ruby.vercel.app?user=aryan-r03&cache_seconds=1800&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Aryan's github-readme-streak-stats"/></a> -->
 
 
  <!-- <a href="https://github.com/aryan-r03/beautiful-github-homepage"><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=aryan-r03&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryan-r03" /></a> -->
@@ -277,11 +302,11 @@
 <!-- </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://wakatime.com/@aryan-r03">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-r03&cache_seconds=1800&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20in%20all%20Repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p> -->
 
 
 <!-- <div align="center">
@@ -370,9 +395,7 @@
 </tr>
 </table>
 
----
-
-
+--- 
 
 ## 🔥 Current Focus
 
